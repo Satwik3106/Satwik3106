@@ -171,7 +171,7 @@
 
             <g class="text-muted font-mono" font-size="15" transform="translate(0, 110)">
                 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.8s" fill="freeze"/>
-                    <text y="0">📍 <tspan x="30" class="text-primary">Location:</tspan> <tspan x="140">Prayagraj, CA</tspan></text>
+                    <text y="0">📍 <tspan x="30" class="text-primary">Location:</tspan> <tspan x="140">Prayagraj</tspan></text>
                 </g>
                 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.8s" fill="freeze"/>
                     <text y="35">🎓 <tspan x="30" class="text-primary">Education:</tspan> <tspan x="140">BTech(Electronics and Communication Engineering)</tspan></text>
