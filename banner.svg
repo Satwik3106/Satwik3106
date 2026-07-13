@@ -140,7 +140,7 @@
         <g transform="translate(40, 90)">
             
             <text class="text-primary font-bold" font-size="36">
-                Hi 👋 I'm <tspan fill="url(#accent-grad)">{YOUR_NAME}</tspan>
+                Hi 👋 I'm <tspan fill="url(#accent-grad)">Satwik Srivastava</tspan>
             </text>
 
             <g transform="translate(0, 45)">
@@ -149,7 +149,7 @@
                 <g mask="url(#typing-mask)" transform="translate(20, 0)">
                     <text class="text-primary font-mono" font-size="20">
                         <animate attributeName="opacity" values="1;1;0;0;0;0;0;0" keyTimes="0;0.25;0.251;0.5;0.501;0.75;0.751;1" dur="16s" repeatCount="indefinite"/>
-                        Full Stack Developer
+                        ML Developer
                     </text>
                     <text class="text-primary font-mono" font-size="20">
                         <animate attributeName="opacity" values="0;0;1;1;0;0;0;0" keyTimes="0;0.25;0.251;0.5;0.501;0.75;0.751;1" dur="16s" repeatCount="indefinite"/>
@@ -157,11 +157,11 @@
                     </text>
                     <text class="text-primary font-mono" font-size="20">
                         <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" keyTimes="0;0.25;0.251;0.5;0.501;0.75;0.751;1" dur="16s" repeatCount="indefinite"/>
-                        UI / UX Engineer
+                        AI Engineer
                     </text>
                     <text class="text-primary font-mono" font-size="20">
                         <animate attributeName="opacity" values="0;0;0;0;0;0;1;1" keyTimes="0;0.25;0.251;0.5;0.501;0.75;0.751;1" dur="16s" repeatCount="indefinite"/>
-                        AI Enthusiast
+                        Electronics Sophomore
                     </text>
                 </g>
                 <rect class="cursor" x="25" y="-18" width="10" height="22" fill="#22D3EE">
@@ -171,19 +171,19 @@
 
             <g class="text-muted font-mono" font-size="15" transform="translate(0, 110)">
                 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.8s" fill="freeze"/>
-                    <text y="0">📍 <tspan x="30" class="text-primary">Location:</tspan> <tspan x="140">San Francisco, CA</tspan></text>
+                    <text y="0">📍 <tspan x="30" class="text-primary">Location:</tspan> <tspan x="140">Prayagraj, CA</tspan></text>
                 </g>
                 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.8s" fill="freeze"/>
-                    <text y="35">🎓 <tspan x="30" class="text-primary">Education:</tspan> <tspan x="140">BSc Computer Science</tspan></text>
+                    <text y="35">🎓 <tspan x="30" class="text-primary">Education:</tspan> <tspan x="140">BTech(Electronics and Communication Engineering)</tspan></text>
                 </g>
                 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.8s" fill="freeze"/>
-                    <text y="70">🔭 <tspan x="30" class="text-primary">Current:</tspan> <tspan x="140">Building open-source tools</tspan></text>
+                    <text y="70">🔭 <tspan x="30" class="text-primary">Current:</tspan> <tspan x="140">Building ML models and projects</tspan></text>
                 </g>
                 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.8s" fill="freeze"/>
-                    <text y="105">🌐 <tspan x="30" class="text-primary">Portfolio:</tspan> <tspan x="140">https://your-portfolio.dev</tspan></text>
+                    <text y="105">🌐 <tspan x="30" class="text-primary">Portfolio:</tspan> <tspan x="140">https://www.linkedin.com/in/satwik-srivastava-191645328/</tspan></text>
                 </g>
                 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.8s" fill="freeze"/>
-                    <text y="140">✉️ <tspan x="30" class="text-primary">Email:</tspan> <tspan x="140">hello@example.com</tspan></text>
+                    <text y="140">✉️ <tspan x="30" class="text-primary">Email:</tspan> <tspan x="140">satwiks169@gmail.com</tspan></text>
                 </g>
             </g>
 
@@ -192,28 +192,28 @@
                 
                 <g class="pill" transform="translate(0, 0)">
                     <rect width="80" height="32" rx="8" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-                    <text x="40" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">React</text>
+                    <text x="40" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">Python</text>
                 </g>
                 <g class="pill" transform="translate(90, 0)">
                     <rect width="90" height="32" rx="8" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-                    <text x="45" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">Next.js</text>
+                    <text x="45" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">JAVA</text>
                 </g>
                 <g class="pill" transform="translate(190, 0)">
                     <rect width="110" height="32" rx="8" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-                    <text x="55" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">TypeScript</text>
+                    <text x="55" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">ARDUINO</text>
                 </g>
                 <g class="pill" transform="translate(310, 0)">
                     <rect width="90" height="32" rx="8" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-                    <text x="45" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">Tailwind</text>
+                    <text x="45" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">VERILOG</text>
                 </g>
                 <g class="pill" transform="translate(410, 0)">
                     <rect width="80" height="32" rx="8" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-                    <text x="40" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">Node.js</text>
+                    <text x="40" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">Pandas</text>
                 </g>
 
                 <g class="pill" transform="translate(0, 42)">
                     <rect width="80" height="32" rx="8" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-                    <text x="40" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">Python</text>
+                    <text x="40" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">jupyter</text>
                 </g>
                 <g class="pill" transform="translate(90, 42)">
                     <rect width="80" height="32" rx="8" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
@@ -221,7 +221,7 @@
                 </g>
                 <g class="pill" transform="translate(180, 42)">
                     <rect width="90" height="32" rx="8" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-                    <text x="45" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">Postgres</text>
+                    <text x="45" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">MySQL</text>
                 </g>
                 <g class="pill" transform="translate(280, 42)">
                     <rect width="60" height="32" rx="8" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
@@ -233,7 +233,7 @@
                 </g>
                 <g class="pill" transform="translate(420, 42)">
                     <rect width="70" height="32" rx="8" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-                    <text x="35" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">Figma</text>
+                    <text x="35" y="21" text-anchor="middle" class="text-muted font-semibold" font-size="13">Colab</text>
                 </g>
             </g>
 
